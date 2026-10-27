@@ -469,15 +469,7 @@ const handleSeedDemo = async () => {
         </div>
 
         <div className="flex flex-col-reverse sm:flex-row sm:items-center justify-between gap-3 p-5 sm:px-6 border-t border-slate-800 bg-slate-950/60">
-          <button
-            type="button"
-            onClick={handleSeedDemo}
-            disabled={loading}
-            className="inline-flex items-center justify-center gap-1.5 text-xs text-slate-400 hover:text-cyan-300 disabled:opacity-50"
-          >
-            <Sparkles className="w-3.5 h-3.5" />
-            Add demo repository instead
-          </button>
+          
 
           <div className="flex items-center justify-end gap-3">
             <Button
