@@ -165,8 +165,6 @@ export function LoginPage() {
               onClick={handleFillDemo}
               className="inline-flex items-center gap-1.5 text-xs text-cyan-400 hover:text-cyan-300 font-medium"
             >
-              <Sparkles className="w-3.5 h-3.5" />
-              <span>Autofill Demo Credentials</span>
             </button>
           </div>
         </div>
