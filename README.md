@@ -165,3 +165,7 @@ codesense-ai/
 - **Secret Redaction**: Credentials and authorization tokens are redacted in structured logs.
 - **Static inspection only**: Current adapters do not execute repository scripts. They are heuristic pattern checks, not isolated containerized official scanner binaries.
 - **Human in the Loop**: AI suggestions produce unified diffs that require explicit developer review before merging.
+
+## Author 
+
+Noctis
