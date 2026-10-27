@@ -14,7 +14,7 @@ export function App() {
             <AppRoutes />
           </main>
           <footer className="border-t border-slate-900 py-6 text-center text-xs text-slate-500">
-            <p>CodeSense AI • Intelligent Code Review Platform • MERN + JavaScript</p>
+            <p>CodeSense AI • Intelligent Code Review Platform • @Noctis </p>
           </footer>
         </div>
       </AuthProvider>
