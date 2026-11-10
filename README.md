@@ -198,3 +198,7 @@ codesense-ai/
 - **Automatic Secret Redaction**: Credentials, tokens, and private keys are masked across all snippets, logs, reports, and AI prompts.
 - **Isolated Patch Sandbox**: AI diffs are parsed, path-checked, syntax-verified, and scanner-tested in disposable workspaces before developer review.
 - **Human Authority**: All remediation actions require explicit developer review and approval.
+
+
+## Author
+- Deviyansh
