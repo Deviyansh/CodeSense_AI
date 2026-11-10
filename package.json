@@ -1,0 +1,16 @@
+{
+  "name": "codesense-ai",
+  "version": "1.0.0",
+  "description": "CodeSense AI - Intelligent Code Review Platform",
+  "private": true,
+  "workspaces": [
+    "server",
+    "client"
+  ],
+  "scripts": {
+    "server": "npm run dev --prefix server",
+    "client": "npm run dev --prefix client",
+    "test": "npm run test --prefix server",
+    "build": "npm run build --prefix client"
+  }
+}
